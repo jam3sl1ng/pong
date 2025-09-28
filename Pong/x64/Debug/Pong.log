@@ -1,0 +1,13 @@
+﻿  Pong.cpp
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(23,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(23,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(23,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(51,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(52,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(69,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(149,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(152,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\Code\C++\Raylib\Pong\Pong\Pong.cpp(157,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\james\Code\C++\Raylib\Pong\x64\Debug\Pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
